@@ -1,0 +1,15 @@
+{
+  "name": "Cozy Sheep Game",
+  "short_name": "SheepGame",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "https://p5js.org/assets/img/p5js.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
